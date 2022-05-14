@@ -1,4 +1,4 @@
-## Welcome to Accelerate Pages
+## Welcome to Accelerate Initiative Pages
 
 You can use the [editor on GitHub](https://github.com/xwarzee/accelerate/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
